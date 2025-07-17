@@ -1,4 +1,4 @@
-```markdown
+
 # ExploreIt AI Recommendation System
 
 ## Overview
@@ -29,7 +29,7 @@ ExploreIt AI is a complete recommendation system with behavioral learning capabi
 ```bash
 git clone <repository-url>
 cd exploreit-ai
-```
+
 
 2. Install dependencies:
 ```bash
