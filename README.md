@@ -76,6 +76,7 @@ In the **Explore** section of the app:
 ```bash
 pip install pandas numpy scikit-learn xgboost
 python your_script.py
+python -m uvicorn main:app --reload
 Make sure the script includes:
 
 
